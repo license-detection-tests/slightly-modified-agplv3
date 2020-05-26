@@ -1,0 +1,4 @@
+This copy of the AGPLv3 has had its header levels modified. Instead of the top header being an h3, it was made an h1,
+and all other section headers were modified accordingly.
+Additionally, in the "How to Apply These Terms to Your New Programs" section, the copyright header was changed 
+to use a backtick-delimited codeblock rather than an indented one.
